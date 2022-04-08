@@ -46,6 +46,6 @@ int main()
             break;
     } 
     }while(digitoMenu == 1);
-    std::cout << "Volta sempre ^-^" << std::endl;
+    std::cout << "Volte sempre ^-^" << std::endl;
   return 0;
 }
